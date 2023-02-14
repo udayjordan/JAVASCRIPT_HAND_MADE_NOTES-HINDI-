@@ -1,0 +1,40 @@
+WEB BASED SCRIPTING LANGUAGE
+1.CLIENT SIDE SCRIPT (FRONT-END)                        2.SERVER SIDE SCRIPT (BACK-END)
+  . VB SCRIPT
+  . JAVASCRIPT                              .JO SERVER PA RUN HOGA WO RETURN MA APKO AK HTML DAGA 
+  .matlab puri ki puri site
+    pahla browser pa load hogi from
+  server uska bad hi run hogi                             EXAMPLE:- PHP
+                                                                   .NET
+                                                                    Python
+
+
+
+
+
+
+ 
+
+JAVASCRIPT IS A EVENT BASED PROGRAMMING LANGUAGE
+.CLICK
+.DOUBLE CLICK
+
+MATLAB AP MOUSE KA USE KARTA HO TO PERFORM EVENT IN JS
+
+
+INPAGE JAVASCRIPT
+
+<html>
+    
+       <head>
+           
+         <script>
+
+          </script>
+
+
+        </head>
+<body>
+<h1> YAHOO BABA</h1>
+</body>
+</html>
